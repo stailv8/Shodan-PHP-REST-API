@@ -7,7 +7,7 @@
  * This is the API class: costants, shodan methods and the generation of the HTTP requests are defined here. 
  */
 class Shodan {
-	private $apiKey;
+	private $apiKey; https://github.com/ScadaExposure/Shodan-PHP-REST-API/blob/master/src/shodan-api.php#L7
 	
 	/**
 	 * Instantiating costants 
