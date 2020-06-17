@@ -4,7 +4,7 @@
 require_once 'Colors.php';
 require_once 'Shodan.php';
 
-$key = 'Insert your API key here';
+$key = https://github.com/ScadaExposure/Shodan-PHP-REST-API/blob/master/src/shodan-api.php#L7
 $client = new Shodan($key, TRUE);
 $colors = new Colors();
 
